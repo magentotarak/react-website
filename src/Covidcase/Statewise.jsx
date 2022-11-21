@@ -24,7 +24,7 @@ const Statewise = () => {
     return (
         <>
 
-            <h1>India State wise covid case Update this onBeta</h1>
+            <h1>India State wise covid case Update this onBeta By Tarak</h1>
 
             <table width="90%" border="1" align="center">
                 <tr>
